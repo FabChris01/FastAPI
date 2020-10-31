@@ -1,6 +1,6 @@
 => Topic:           FastAPI
 => Date:            31-10-2020
-=> YouTube Link:    https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx
+=> YouTube Links:    https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx
 
 => My Takeaway:
 

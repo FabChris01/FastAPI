@@ -1,0 +1,12 @@
+=> Topic:           FastAPI
+=> Date:            31-10-2020
+=> YouTube Link:    https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx
+
+=> My Takeaway:
+
+    - FastAPI is a python framework p much like Flash and Django to create APIs using python 
+    - Flask API has gained popularity due to its ability to support Asynchronous Functionality and easy Code refactoring
+    - It has Pdantic which allows auto validation of requests
+
+    - Installed FastAPI and uvicorn 
+    - Implemented a Site as in "FastAPI01.py" that displays a Welcome Message

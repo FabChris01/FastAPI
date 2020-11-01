@@ -1,0 +1,9 @@
+=> Topic:           FastAPI
+=> Date:            01-11-2020
+=> YouTube Links:   https://www.youtube.com/watch?v=ZZhBIyXbY4I&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=3
+
+=> My Takeaway:
+
+    - learnt about the Pydantic Library in Python
+    - learnt how to import and use pydantic basemodel to make packages and import and export data
+    

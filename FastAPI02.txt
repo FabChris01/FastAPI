@@ -1,0 +1,8 @@
+=> Topic:           FastAPI
+=> Date:            01-11-2020
+=> YouTube Links:   https://www.youtube.com/watch?v=uldt_GTvZFI&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=2
+
+=> My Takeaway:
+
+    - Learnt how to specify path parameters and use them to alter the contents of a webpage
+    - Learnt about Queries and how to Integrate them into a path

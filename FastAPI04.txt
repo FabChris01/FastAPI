@@ -1,5 +1,5 @@
 => Topic:           FastAPI
-=> Date:            01-11-2020
+=> Date:            02-11-2020
 => YouTube Links:   https://www.youtube.com/watch?v=0QpdG01CcLY&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=4
 
 => My Takeaway:

@@ -1,0 +1,9 @@
+=> Topic:           FastAPI
+=> Date:            02-11-2020
+=> YouTube Links:   https://www.youtube.com/watch?v=xq3IhXROGJU&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=5
+
+=> My Takeaway:
+
+    - learnt how to make a basic ToDo webapp with the functions add, delete, display, and check
+    - Employed Concepts like Paths, Queries and BaseModel Functions
+    - Added an Exception Layer to the ToDo to throw any errors encountered during user operation

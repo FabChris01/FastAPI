@@ -1,0 +1,11 @@
+=> Topic:           FastAPI
+=> Date:            01-11-2020
+=> YouTube Links:   https://www.youtube.com/watch?v=0QpdG01CcLY&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=4
+
+=> My Takeaway:
+
+    - Learnt About Response Model
+    - Learnt How to use Response Model to add a Layer of Abstraction to the data presented in the site
+    - Learnt to use Response Exclude and Include Features
+
+

@@ -1,0 +1,8 @@
+=> Topic:           FastAPI
+=> Date:            03-11-2020
+=> YouTube Links:   https://www.youtube.com/watch?v=JDoS-YSlH-o&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=7
+=> My Takeaway:
+
+    - Learnt about Tortoise ORM and how to import it 
+    - Used Tortoise ORM to create Models 
+    - Learnt how to get user data and store in Tortoise ORM models 

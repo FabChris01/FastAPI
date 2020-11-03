@@ -1,0 +1,9 @@
+=> Topic:           FastAPI
+=> Date:            03-11-2020
+=> YouTube Links:   https://www.youtube.com/watch?v=rxS2_wOkbhE&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=6
+
+=> My Takeaway:
+
+    - Learnt about the Python Multi-part parcel and how to import and employ its functionality
+    - Leanrt how to use Python Forms to create simple forms that get user input and store data
+    

@@ -1,0 +1,8 @@
+=> Topic:           FastAPI
+=> Date:            04-11-2020
+=> YouTube Links:   https://www.youtube.com/watch?v=IK3X4R0KIQs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=8
+
+=> My Takeaway:
+
+    - Learnt more about Tortoise ORM integration with FastAPI  
+    - Implemented a simple  To do API with create, read, delete and update functionalitties using Tortoise ORM

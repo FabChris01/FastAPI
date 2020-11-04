@@ -1,0 +1,8 @@
+=> Topic:           FastAPI
+=> Date:            04-11-2020
+=> YouTube Links:   https://www.youtube.com/watch?v=hCMNST2BKpU&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx&index=9
+
+=> My Takeaway:
+
+    - Learnt about Jinja2
+    - Learnt the basics of Jinja 3 and how its implemented with FastAPI
